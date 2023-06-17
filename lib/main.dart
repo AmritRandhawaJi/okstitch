@@ -107,6 +107,7 @@ class _MyHomePageState extends State<MyHomePage>
                             ),
                           ),
                         ],
+
                         totalRepeatCount: 1,
                         pause: const Duration(milliseconds: 300),
                         displayFullTextOnTap: true,
