@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "846363956802",
+    "project_id": "okstitch-3a3ca",
+    "storage_bucket": "okstitch-3a3ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846363956802:android:c8f03ec4b7a490cbe5bfdb",
+        "android_client_info": {
+          "package_name": "com.okstitch.okstitch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846363956802-45ade767pg63gm3bujhh1ig0r1djegj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNnm7eWnv0J72AAyst2vp0O-Be15UsV9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846363956802-45ade767pg63gm3bujhh1ig0r1djegj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
